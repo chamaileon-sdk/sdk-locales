@@ -27,7 +27,7 @@
         "saved": "{0} ha sido guardado"
     },
     "fileUploadDropZone": {
-        "dropImage": "Suelta aquí las imágenes \\no {acción} para cargar",
+        "dropImage": "Suelta aquí las imágenes\no {action} para cargar\n(Tamaño máximo de archivo: {maxFileSize} MB).",
         "browseAction": "buscar",
         "or": "o",
         "pasteUrl": "Guardar imagen de una URL",
@@ -99,7 +99,7 @@
         "pexelChooseFrom": "Elige gratis entre millones de imágenes de alta calidad",
         "pexelLicense": "Licencia Pexels",
         "pexelPoweredBy": "Powered by",
-        "pexelLicenseInfo": "Todas las imágenes se publican bajo la {licencia}",
+        "pexelLicenseInfo": "Todas las imágenes se publican bajo la {license}",
         "imageSizes": {
             "tiny": "Pequeño",
             "landscape": "Paisaje",

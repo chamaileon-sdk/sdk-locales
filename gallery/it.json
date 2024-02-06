@@ -27,7 +27,7 @@
         "saved": "{0} è salvato"
     },
     "fileUploadDropZone": {
-        "dropImage": "Rilascia qui le immagini \\no {action} per caricare \\n(Dimensione massima del file: {maxFileSize} MB)",
+        "dropImage": "Rilascia qui le immagini\no {action} per caricare\n(Dimensione massima del file: {maxFileSize} MB)",
         "browseAction": "sfoglia",
         "or": "o",
         "pasteUrl": "Salva l'immagine da un URL",
