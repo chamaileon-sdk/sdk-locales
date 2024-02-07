@@ -27,7 +27,7 @@
 		"saved": "已儲存 {0}"
 	},
 	"fileUploadDropZone": {
-		"dropImage": "放圖到這裡，\n或 {action} 上載\n(檔案最大: {maxFileSize} MB.)",
+		"dropImage": "放圖到這裡\n或 {action} 上載\n(檔案最大: {maxFileSize} MB.)",
 		"browseAction": "瀏覽",
 		"or": "or",
 		"pasteUrl": "由 URL 儲存圖片",

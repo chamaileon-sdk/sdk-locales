@@ -1,1 +1,16 @@
-{"appContent":{"mobileView":"Móvil","desktopView":"Escritorio"},"variableToolbox":{"title":"Editar variable","nameLabel":"Nombre","valueLabel":"Valor","buttons":{"save":"Guardar","cancel":"Cancelar"},"inputRequired":"Se necesita información"}}
+{
+	"appContent": {
+		"mobileView": "Móvil",
+		"desktopView": "Escritorio"
+	},
+	"variableToolbox": {
+		"title": "Editar variable",
+		"nameLabel": "Nombre",
+		"valueLabel": "Valor",
+		"buttons": {
+			"save": "Guardar",
+			"cancel": "Cancelar"
+		},
+		"inputRequired": "Se necesita información"
+	}
+}
