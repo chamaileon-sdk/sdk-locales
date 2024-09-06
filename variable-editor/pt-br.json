@@ -1,0 +1,16 @@
+{
+  "appContent": {
+    "mobileView": "Mobile",
+    "desktopView": "Desktop"
+  },
+  "variableToolbox": {
+    "title": "Editar variável",
+    "nameLabel": "Nome",
+    "valueLabel": "Valor",
+    "buttons": {
+      "save": "Savar",
+      "cancel": "Cancelar"
+    },
+    "inputRequired": "É obrigatório informar um valor de entrada"
+  }
+}

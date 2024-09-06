@@ -1,0 +1,18 @@
+{
+  "title": "Importar HTML",
+  "placeholder": "Insira seu HTML aqui",
+  "importerSubtitle": "Código HTML",
+  "cancelButton": "Cancelar",
+  "importButton": "Importar",
+  "tryAgainButton": "Usar outro modelo",
+  "timeoutButton": "Tentar novamente",
+  "nextButton": "Criar e-mail",
+  "loading": "Aguarde, a importação pode levar cerca de 1 minuto para concluir o processamento.",
+  "warnings": "Avisos",
+  "errors": "Erros",
+  "closeNotificationBarTitle": "Fechar",
+  "noWarningsMessage": "Oba, nenhum aviso aqui!",
+  "noErrorsMessage": "Oba, nenhum erro aqui!",
+  "timeoutMessage": "O serviço de importação não pôde processar a solicitação dentro do prazo definido. Por favor, tente novamente."
+}
+
