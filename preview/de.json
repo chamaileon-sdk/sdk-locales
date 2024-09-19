@@ -6,5 +6,11 @@
 	"previewBody": {
 		"mobileView": "Mobil",
 		"desktopView": "Desktop"
+	},
+	"previewBodyLinkModal": {
+		"textAreaLabel": "This link points to",
+		"textAreaPlaceholder": "<< No link provided >>",
+		"close": "Close",
+		"open": "Open"
 	}
 }

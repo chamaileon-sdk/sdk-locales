@@ -1,130 +1,130 @@
 {
-  "defaultEditorImageTitle": "Sem título",
-  "app": {
-    "headerTitle": "Galeria",
-    "myImages": "Minhas Imagens",
-    "stockPhotos": "Navegar pelo banco de imagens"
-  },
-  "fileList": {
-    "searchNoResult": "Sem imagens.",
-    "imageCardActions": {
-      "save": "Adicionar à biblioteca",
-      "pick": "Escolher",
-      "crop": "Recortar para ajustar",
-      "edit": "Editar",
-      "delete": "Excluir"
-    },
-    "imageRemoved": "Imagem excluída com sucesso!"
-  },
-  "fileListItem": {
-    "dialogAcceptLabel": "OK",
-    "dialogDeclineLabel": "Cancelar",
-    "deleteDialogText": "Deseja realmente excluir esta imagem? Este processo não pode ser desfeito.",
-    "deleteDialogTitle": "Excluir imagem",
-    "smallImageWarning": "Muito pequena",
-    "size": "Tamanho: {imageWidth} x {imageHeight}",
-    "ratio": "Proporção: {aspectRatio}",
-    "saved": "{0} concluída(s)"
-  },
-  "fileUploadDropZone": {
-    "dropImage": "Solte as imagens aqui\nou {action} para fazer o upload\n(Tamanho máximo do arquivo: {maxFileSize} MB.)",
-    "browseAction": "navegar",
-    "or": "ou",
-    "pasteUrl": "Salvar imagem de uma URL",
-    "browseStockPhotos": "Navegar por fotos de banco de imagens"
-  },
-  "fileUploadUrlZone": {
-    "urlUploadInfo": "Fazer upload a partir do protocolo 'http://' não é suportado. Por favor, informe uma imagem no protocolo 'https://' ou salve-a no seu computador e faça o upload a partir dos seus arquivos.",
-    "urlUploadSupportedImages": "Formatos suportados: {supportedImageFormats}",
-    "urlUploadSubmit": "Adicionar à biblioteca"
-  },
-  "folderTreeView": {
-    "createButtonText": "Criar subpasta",
-    "createDialogAcceptLabel": "Criar",
-    "createDialogTitle": "Criar nova pasta",
-    "createSuccessMessage": "Subpasta criada!",
-    "deleteButtonText": "Excluir pasta",
-    "dialogDeclineLabel": "Cancelar",
-    "deleteDialogText": "Você tem certeza de que deseja excluir esta pasta com todas as suas subpastas? Este processo não pode ser desfeito.",
-    "deleteDialogTitle": "Excluir pasta",
-    "dialogAcceptLabel": "OK",
-    "dialogLabel": "Nome da pasta",
-    "deleteSuccessMessage": "Pasta excluída com sucesso!",
-    "renameButtonText": "Renomear pasta",
-    "renameDialogAcceptLabel": "Renomear",
-    "renameDialogTitle": "Renomear pasta",
-    "renameSuccessMessage": "Pasta renomeada com sucesso!",
-    "nameRequiredText": "Nome é obrigatório!"
-  },
-  "photoEditorPane": {
-    "cropToFit": "Cortar para ajustar"
-  },
-  "photoCropper": {
-    "crop": {
-      "custom": "personalizado",
-      "square": "quadrado",
-      "landscape": "paisagem",
-      "portrait": "retrato"
-    },
-    "edit": {
-      "rotateRight": "girar para a direita",
-      "rotateLeft": "girar para a esquerda",
-      "flipX": "virar no eixo X",
-      "flipY": "virar no eixo Y",
-      "downscale": "reduzir escala"
-    },
-    "header": {
-      "reset": "cancelar",
-      "save": "salvar"
-    }
-  },
-  "searchZone": {
-    "search": "Pesquisar",
-    "arrangeSearch": "Ordenar por",
-    "searchOptions": {
-      "A-Z": "A - Z",
-      "Z-A": "Z - A",
-      "newest": "Mais novo",
-      "oldest": "Mais velho"
-    }
-  },
-  "stockPhotoListItem": {
-    "pexelImport": "Adicionar à biblioteca"
-  },
-  "stockPhotosModal": {
-    "stockPhotos": "Banco de imagens",
-    "size": "Tamanho da imagem",
-    "search": "Pesquisar",
-    "noResultRefine": "Sem resultados. Por favor, refine sua busca!",
-    "pexelChooseFrom": "Escolha entre milhões de imagens de alta qualidade gratuitamente",
-    "pexelLicense": "Licença Pexels",
-    "pexelPoweredBy": "Desenvolvido por",
-    "pexelLicenseInfo": "Todas as imagens são publicadas sob a {licença}",
-    "imageSizes": {
-      "tiny": "Pequeno",
-      "landscape": "Paisagem",
-      "portrait": "Retrato",
-      "small": "Pequeno",
-      "medium": "Médio",
-      "large": "Grande",
-      "large2x": "Grande 2x",
-      "original": "Original"
-    }
-  },
-  "uploadModal": {
-    "uploadModalTitle": "Aviso",
-    "uploadModalText": "Você tem certeza de que deseja cancelar o processo de upload?",
-    "uploadModalContinue": "Continuar o upload",
-    "uploadModalCancel": "Cancelar processo",
-    "uploadingInProgress": "Fazendo upload das imagens...",
-    "uploadingInFinished": "Upload concluído"
-  },
-  "errors": {
-    "supportedFileTypes": "Tipos de arquivo suportados: apenas {0}, {1}, {2} e {3}!",
-    "notImage": "Não é um arquivo de imagem!",
-    "tooLargeSize": "Seu arquivo é muito grande. Max.: {maxFileSize} MB",
-    "httpsMissing": "URL inválido. Por favor, informa uma imagem a partir de HTTPS.",
-    "invalidImageUrl": "Esta não é uma URL válida",
-    "editImage": "Erro ao carregar a imagem para edição."
-  }
+	"defaultEditorImageTitle": "Sem título",
+	"app": {
+		"headerTitle": "Galeria",
+		"myImages": "Minhas Imagens",
+		"stockPhotos": "Navegar pelo banco de imagens"
+	},
+	"fileList": {
+		"searchNoResult": "Sem imagens.",
+		"imageCardActions": {
+			"save": "Adicionar à biblioteca",
+			"pick": "Escolher",
+			"crop": "Recortar para ajustar",
+			"edit": "Editar",
+			"delete": "Excluir"
+		},
+		"imageRemoved": "Imagem excluída com sucesso!"
+	},
+	"fileListItem": {
+		"dialogAcceptLabel": "OK",
+		"dialogDeclineLabel": "Cancelar",
+		"deleteDialogText": "Deseja realmente excluir esta imagem? Este processo não pode ser desfeito.",
+		"deleteDialogTitle": "Excluir imagem",
+		"smallImageWarning": "Muito pequena",
+		"size": "Tamanho: {imageWidth} x {imageHeight}",
+		"ratio": "Proporção: {aspectRatio}",
+		"saved": "{0} concluída(s)"
+	},
+	"fileUploadDropZone": {
+		"dropImage": "Solte as imagens aqui\nou {action} para fazer o upload\n(Tamanho máximo do arquivo: {maxFileSize} MB.)",
+		"browseAction": "navegar",
+		"or": "ou",
+		"pasteUrl": "Salvar imagem de uma URL",
+		"browseStockPhotos": "Navegar por fotos de banco de imagens"
+	},
+	"fileUploadUrlZone": {
+		"urlUploadInfo": "Fazer upload a partir do protocolo 'http://' não é suportado. Por favor, informe uma imagem no protocolo 'https://' ou salve-a no seu computador e faça o upload a partir dos seus arquivos.",
+		"urlUploadSupportedImages": "Formatos suportados: {supportedImageFormats}",
+		"urlUploadSubmit": "Adicionar à biblioteca"
+	},
+	"folderTreeView": {
+		"createButtonText": "Criar subpasta",
+		"createDialogAcceptLabel": "Criar",
+		"createDialogTitle": "Criar nova pasta",
+		"createSuccessMessage": "Subpasta criada!",
+		"deleteButtonText": "Excluir pasta",
+		"dialogDeclineLabel": "Cancelar",
+		"deleteDialogText": "Você tem certeza de que deseja excluir esta pasta com todas as suas subpastas? Este processo não pode ser desfeito.",
+		"deleteDialogTitle": "Excluir pasta",
+		"dialogAcceptLabel": "OK",
+		"dialogLabel": "Nome da pasta",
+		"deleteSuccessMessage": "Pasta excluída com sucesso!",
+		"renameButtonText": "Renomear pasta",
+		"renameDialogAcceptLabel": "Renomear",
+		"renameDialogTitle": "Renomear pasta",
+		"renameSuccessMessage": "Pasta renomeada com sucesso!",
+		"nameRequiredText": "Nome é obrigatório!"
+	},
+	"photoEditorPane": {
+		"cropToFit": "Cortar para ajustar"
+	},
+	"photoCropper": {
+		"crop": {
+			"custom": "personalizado",
+			"square": "quadrado",
+			"landscape": "paisagem",
+			"portrait": "retrato"
+		},
+		"edit": {
+			"rotateRight": "girar para a direita",
+			"rotateLeft": "girar para a esquerda",
+			"flipX": "virar no eixo X",
+			"flipY": "virar no eixo Y",
+			"downscale": "reduzir escala"
+		},
+		"header": {
+			"reset": "cancelar",
+			"save": "salvar"
+		}
+	},
+	"searchZone": {
+		"search": "Pesquisar",
+		"arrangeSearch": "Ordenar por",
+		"searchOptions": {
+			"A-Z": "A - Z",
+			"Z-A": "Z - A",
+			"newest": "Mais novo",
+			"oldest": "Mais velho"
+		}
+	},
+	"stockPhotoListItem": {
+		"pexelImport": "Adicionar à biblioteca"
+	},
+	"stockPhotosModal": {
+		"stockPhotos": "Banco de imagens",
+		"size": "Tamanho da imagem",
+		"search": "Pesquisar",
+		"noResultRefine": "Sem resultados. Por favor, refine sua busca!",
+		"pexelChooseFrom": "Escolha entre milhões de imagens de alta qualidade gratuitamente",
+		"pexelLicense": "Licença Pexels",
+		"pexelPoweredBy": "Desenvolvido por",
+		"pexelLicenseInfo": "Todas as imagens são publicadas sob a {licença}",
+		"imageSizes": {
+			"tiny": "Pequeno",
+			"landscape": "Paisagem",
+			"portrait": "Retrato",
+			"small": "Pequeno",
+			"medium": "Médio",
+			"large": "Grande",
+			"large2x": "Grande 2x",
+			"original": "Original"
+		}
+	},
+	"uploadModal": {
+		"uploadModalTitle": "Aviso",
+		"uploadModalText": "Você tem certeza de que deseja cancelar o processo de upload?",
+		"uploadModalContinue": "Continuar o upload",
+		"uploadModalCancel": "Cancelar processo",
+		"uploadingInProgress": "Fazendo upload das imagens...",
+		"uploadingInFinished": "Upload concluído"
+	},
+	"errors": {
+		"supportedFileTypes": "Tipos de arquivo suportados: apenas {0}, {1}, {2} e {3}!",
+		"notImage": "Não é um arquivo de imagem!",
+		"tooLargeSize": "Seu arquivo é muito grande. Max.: {maxFileSize} MB",
+		"httpsMissing": "URL inválido. Por favor, informa uma imagem a partir de HTTPS.",
+		"invalidImageUrl": "Esta não é uma URL válida",
+		"editImage": "Erro ao carregar a imagem para edição."
+	}
 }
