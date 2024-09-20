@@ -6,5 +6,11 @@
 	"previewBody": {
 		"mobileView": "Móvil",
 		"desktopView": "Escritorio"
+	},
+	"previewBodyLinkModal": {
+		"textAreaLabel": "This link points to",
+		"textAreaPlaceholder": "<< No link provided >>",
+		"close": "Close",
+		"open": "Open"
 	}
 }

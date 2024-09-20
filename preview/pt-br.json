@@ -1,10 +1,16 @@
 {
-  "previewHeader": {
-    "darkMode": "Modo escuro (Outlook)",
-    "lightMode": "Modo claro"
-  },
-  "previewBody": {
-    "mobileView": "Mobile",
-    "desktopView": "Desktop"
-  }
+	"previewHeader": {
+		"darkMode": "Modo escuro (Outlook)",
+		"lightMode": "Modo claro"
+	},
+	"previewBody": {
+		"mobileView": "Mobile",
+		"desktopView": "Desktop"
+	},
+	"previewBodyLinkModal": {
+		"textAreaLabel": "This link points to",
+		"textAreaPlaceholder": "<< No link provided >>",
+		"close": "Close",
+		"open": "Open"
+	}
 }
