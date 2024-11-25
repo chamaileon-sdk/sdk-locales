@@ -109,6 +109,7 @@
 			"block": "Blocco",
 			"loop": "Loop",
 			"block-level-loop": "Loop a livello di blocco",
+			"typed-text": "Typed Text",
 			"conditional": "Condizionale",
 			"block-level-conditional": "Condizionale a livello di blocco",
 			"dynamic-image": "Immagine dinamica",
@@ -358,6 +359,15 @@
 					"message": "Non è possibile aggiornare questo componente, perché è stato precedentemente eliminato. È tuttavia possibile salvarlo come nuovo componente. Vuoi salvarlo?",
 					"acceptLabel": "Salva",
 					"declineLabel": "Annulla"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Testo",
 			"modeSwitchLabel": "Utilizza la formattazione HTML",
 			"modeSwitchLabelInfo": "Salva le variabili senza tag HTML e utilizzale come Alt-text o titolo del link.",
-			"subTypeInfo": "I formati di testo utilizzati in questa finestra modale dell'editor di variabili saranno sostituiti dall'opzione di formato dell'elemento di testo a cui la variabile è collegata.",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Inserisci qui il testo non formattato",
 			"rules": {
 				"required": "Questo è un campo obbligatorio"

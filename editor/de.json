@@ -109,6 +109,7 @@
 			"block": "Block",
 			"loop": "Schleife",
 			"block-level-loop": "Blockebene Schleife",
+			"typed-text": "Typed Text",
 			"conditional": "Bedingung",
 			"block-level-conditional": "Block Bedingung",
 			"dynamic-image": "Dynamisches Bild",
@@ -358,6 +359,15 @@
 					"message": "Updating this component is not possible, because it has been previously deleted. You can however, save it as a new one. Do you want to save it?",
 					"acceptLabel": "Save",
 					"declineLabel": "Cancel"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Text",
 			"modeSwitchLabel": "HTML-Formatierung verwenden",
 			"modeSwitchLabelInfo": "Speichern Sie Variablen ohne HTML-Tags und verwenden Sie sie als Alt-Text oder Link-Titel",
-			"subTypeInfo": "The used text formats in this variable editor modal will be overwritten by the text element's format option that the variable is linked to",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Geben Sie hier Ihren unformatierten Text ein",
 			"rules": {
 				"required": "Dies ist ein Pflichtfeld"

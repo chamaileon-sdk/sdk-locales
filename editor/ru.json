@@ -109,6 +109,7 @@
 			"block": "Блок",
 			"loop": "Цикл",
 			"block-level-loop": "Block Level Loop",
+			"typed-text": "Typed Text",
 			"conditional": "Условный",
 			"block-level-conditional": "Block Level Conditional",
 			"dynamic-image": "Динамическое изображение",
@@ -358,6 +359,15 @@
 					"message": "Updating this component is not possible, because it has been previously deleted. You can however, save it as a new one. Do you want to save it?",
 					"acceptLabel": "Save",
 					"declineLabel": "Cancel"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Текст",
 			"modeSwitchLabel": "Use HTML formatting",
 			"modeSwitchLabelInfo": "Save variable without HTML tags and use them as Alt-text or Link title",
-			"subTypeInfo": "The used text formats in this variable editor modal will be overwritten by the text element's format option that the variable is linked to",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Enter your unformatted text here",
 			"rules": {
 				"required": "Имя обязательно"

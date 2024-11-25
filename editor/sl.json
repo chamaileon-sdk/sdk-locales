@@ -109,6 +109,7 @@
 			"block": "Gradnik",
 			"loop": "Zanka",
 			"block-level-loop": "Raven zanke gradnika",
+			"typed-text": "Typed Text",
 			"conditional": "Pogojnik",
 			"block-level-conditional": "Raven pogojev gradnika",
 			"dynamic-image": "Dinamična slika",
@@ -358,6 +359,15 @@
 					"message": "Posodabljanje te komponente ni mogoče, ker je bila predhodno izbrisana. Lahko pa jo shraniš kot novo. Jo želiš shraniti?",
 					"acceptLabel": "Shrani",
 					"declineLabel": "Prekliči"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Tekst",
 			"modeSwitchLabel": "Uporabi HTML oblikovanje",
 			"modeSwitchLabelInfo": "Shrani spremenljivko brez oznak HTML in jo uporabi kot Alt opis slike ali naslov povezave",
-			"subTypeInfo": "The used text formats in this variable editor modal will be overwritten by the text element's format option that the variable is linked to",
+			"subTypeInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Vnesi neoblikovan tekst tukaj",
 			"rules": {
 				"required": "To polje je obvezno"
