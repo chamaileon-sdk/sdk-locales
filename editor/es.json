@@ -109,6 +109,7 @@
 			"block": "Bloque",
 			"loop": "Bucle",
 			"block-level-loop": "Bucle a nivel de bloque",
+			"typed-text": "Typed Text",
 			"conditional": "Condicional",
 			"block-level-conditional": "Nivel del bloque Condicional",
 			"dynamic-image": "Imagen dinámica",
@@ -358,6 +359,15 @@
 					"message": "No es posible actualizar este componente, ya que ha sido eliminado previamente. Sin embargo, puedes guardarlo como uno nuevo. ¿Deseas guardarlo?",
 					"acceptLabel": "Guardar",
 					"declineLabel": "Cancelar"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Texto",
 			"modeSwitchLabel": "Utilizar el formato HTML",
 			"modeSwitchLabelInfo": "Guarda variables sin etiquetas HTML y utiliza como texto alternativo o título de enlace",
-			"subTypeInfo": "Los formatos de texto utilizados en este modal de editor de variables serán sobrescritos por la opción de formato del elemento de texto al que está vinculada la variable",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Introduce aquí el texto sin formato",
 			"rules": {
 				"required": "Campo obligatorio"

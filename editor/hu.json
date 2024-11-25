@@ -109,6 +109,7 @@
 			"block": "Blokk",
 			"loop": "Ciklus",
 			"block-level-loop": "Blokkszintű Ciklus",
+			"typed-text": "Typed Text",
 			"conditional": "Elágazás",
 			"block-level-conditional": "Blokkszintű Elágazás",
 			"dynamic-image": "Dinamikus Kép",
@@ -358,6 +359,15 @@
 					"message": "Updating this component is not possible, because it has been previously deleted. You can however, save it as a new one. Do you want to save it?",
 					"acceptLabel": "Save",
 					"declineLabel": "Cancel"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Szöveg",
 			"modeSwitchLabel": "HTML formázás",
 			"modeSwitchLabelInfo": "Ments HTML formázás nélkül, ha kép alternetív szövegeként vagy link címeként is szeretnéd használni a változót.",
-			"subTypeInfo": "A változó szerkesztő ablakban használt szövegformátumokat felülírja a szöveg elem formátum opciója, amelyben a változó használva van.",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Ide írhatod a formázás nélküli szöveget",
 			"rules": {
 				"required": "Ez egy kötelező mező"

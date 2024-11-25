@@ -109,6 +109,7 @@
 			"block": "Section",
 			"loop": "Boucle",
 			"block-level-loop": "Boucle au niveau de la section",
+			"typed-text": "Typed Text",
 			"conditional": "Conditionnel",
 			"block-level-conditional": "Condition au niveau de la section",
 			"dynamic-image": "Image dynamique",
@@ -358,6 +359,15 @@
 					"message": "Updating this component is not possible, because it has been previously deleted. You can however, save it as a new one. Do you want to save it?",
 					"acceptLabel": "Enregistrer",
 					"declineLabel": "Annuler"
+				}
+			},
+			"conversion": {
+				"labels": {
+					"title": "Conversion"
+				},
+				"toTyped": {
+					"label": "Change to typed text",
+					"tooltip": "If you change the type to typed text you will get more customization options. Also it enables the usage of components on this element."
 				}
 			},
 			"dynamicImageSize": {
@@ -688,7 +698,7 @@
 			"label": "Texte",
 			"modeSwitchLabel": "Utiliser le format HTML",
 			"modeSwitchLabelInfo": "Enregistrez la variable sans balises HTML et utilisez-les comme texte alternatif ou titre de lien",
-			"subTypeInfo": "Les formats de texte utilisés dans l'éditeur de variable seront remplacés par l'option de format du texte de l'élément auquel la variable est liée",
+			"typedTextInfo": "If you use this variable in a 'typed text' element the styles will be overwritten by the text element's format option that the variable is linked to",
 			"addSimpleText": "Entrer votre texte non formaté ici",
 			"rules": {
 				"required": "Ceci est un champ obligatoire"
