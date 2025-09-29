@@ -8,6 +8,243 @@
 			"decline": "Cancel"
 		}
 	},
+	"aiAssistant": {
+		"generate": "Generate",
+		"back": "Back",
+		"next": "Next",
+		"title": "AI Assistant",
+		"ideas": "Ideas for you...",
+		"findTheRight": "Find the right text based on your goals and target audience.",
+		"language": "Language",
+		"editable": "Editable",
+		"customContext": "Add your custom instructions here",
+		"prompt": "Prompt",
+		"suggested": "Suggested context",
+		"insert": "Insert",
+		"aiAssistantTooltip": "AI Assistant",
+		"callAiAssistantError": "AI Assistant could not generate a response at this time. Please try again.",
+		"noTargetError": "Ai assistant has no element to work on. Please add or select an element.",
+		"gptConfigs":{
+			"languages": {
+				"sameAsInContext": "Same as in context",
+				"enUS": "American English",
+				"enGB": "British English",
+				"ab": "Abkhazian",
+				"aa": "Afar",
+				"af": "Afrikaans",
+				"sq": "Albanian",
+				"am": "Amharic",
+				"ar": "Arabic",
+				"hy": "Armenian",
+				"as": "Assamese",
+				"ay": "Aymara",
+				"az": "Azerbaijani",
+				"ba": "Bashkir",
+				"eu": "Basque",
+				"bn": "Bengali, Bangla",
+				"dz": "Bhutani",
+				"bh": "Bihari",
+				"bi": "Bislama",
+				"br": "Breton",
+				"bg": "Bulgarian",
+				"my": "Burmese",
+				"be": "Byelorussian",
+				"km": "Cambodian",
+				"ca": "Catalan",
+				"zh": "Chinese",
+				"zhCN": "Chinese (Simplified)",
+				"zhTW": "Chinese (Traditional)",
+				"co": "Corsican",
+				"hr": "Croatian",
+				"cs": "Czech",
+				"da": "Danish",
+				"nl": "Dutch",
+				"eo": "Esperanto",
+				"et": "Estonian",
+				"fo": "Faeroese",
+				"fj": "Fiji",
+				"fi": "Finnish",
+				"fr": "French",
+				"fy": "Frisian",
+				"gd": "Gaelic (Scots Gaelic)",
+				"gl": "Galician",
+				"ka": "Georgian",
+				"de": "German",
+				"el": "Greek",
+				"kl": "Greenlandic",
+				"gn": "Guarani",
+				"gu": "Gujarati",
+				"ha": "Hausa",
+				"he": "Hebrew",
+				"hi": "Hindi",
+				"hu": "Hungarian",
+				"is": "Icelandic",
+				"id": "Indonesian",
+				"ia": "Interlingua",
+				"ie": "Interlingue",
+				"ik": "Inupiak",
+				"ga": "Irish",
+				"it": "Italian",
+				"ja": "Japanese",
+				"jv": "Javanese",
+				"kn": "Kannada",
+				"ks": "Kashmiri",
+				"kk": "Kazakh",
+				"rw": "Kinyarwanda",
+				"ky": "Kirghiz",
+				"rn": "Kirundi",
+				"ko": "Korean",
+				"ku": "Kurdish",
+				"lo": "Laothian",
+				"la": "Latin",
+				"lv": "Latvian, Lettish",
+				"ln": "Lingala",
+				"lt": "Lithuanian",
+				"mk": "Macedonian",
+				"mg": "Malagasy",
+				"ms": "Malay",
+				"ml": "Malayalam",
+				"mt": "Maltese",
+				"mi": "Maori",
+				"mr": "Marathi",
+				"mo": "Moldavian",
+				"mn": "Mongolian",
+				"na": "Nauru",
+				"ne": "Nepali",
+				"no": "Norwegian",
+				"oc": "Occitan",
+				"or": "Oriya",
+				"om": "Oromo, Afan",
+				"ps": "Pashto, Pushto",
+				"fa": "Persian",
+				"pl": "Polish",
+				"pt": "Portuguese",
+				"pa": "Punjabi",
+				"qu": "Quechua",
+				"rm": "Rhaeto-Romance",
+				"ro": "Romanian",
+				"ru": "Russian",
+				"sm": "Samoan",
+				"sg": "Sangro",
+				"sa": "Sanskrit",
+				"sr": "Serbian",
+				"sh": "Serbo-Croatian",
+				"st": "Sesotho",
+				"tn": "Setswana",
+				"sn": "Shona",
+				"sd": "Sindhi",
+				"si": "Singhalese",
+				"ss": "Siswati",
+				"sk": "Slovak",
+				"sl": "Slovenian",
+				"so": "Somali",
+				"es": "Spanish",
+				"su": "Sudanese",
+				"sw": "Swahili",
+				"sv": "Swedish",
+				"tl": "Tagalog",
+				"tg": "Tajik",
+				"ta": "Tamil",
+				"tt": "Tatar",
+				"te": "Tegulu",
+				"th": "Thai",
+				"bo": "Tibetan",
+				"ti": "Tigrinya",
+				"to": "Tonga",
+				"ts": "Tsonga",
+				"tr": "Turkish",
+				"tk": "Turkmen",
+				"tw": "Twi",
+				"uk": "Ukrainian",
+				"ur": "Urdu",
+				"uz": "Uzbek",
+				"vi": "Vietnamese",
+				"vo": "Volapuk",
+				"cy": "Welsh",
+				"wo": "Wolof",
+				"xh": "Xhosa",
+				"yi": "Yiddish",
+				"yo": "Yoruba",
+				"zu": "Zulu"
+			}
+		},
+		"actionStep": {
+			"suggestButtonText": "Suggest button text",
+			"generateBasedOnNotes": "Generate text based on notes",
+			"fixGrammar": "Fix grammar",
+			"translateLanguage": "Translate to other language",
+			"generateSimilar": "Generate similar",
+			"suggestSubjectPreview": "Suggest subject line and preview text"
+		},
+		"toneStep": {
+			"audience": {
+				"title": "Audience",
+				"general": "General",
+				"knowledgeable": "Knowledgeable",
+				"expert": "Expert",
+				"sameAsInContextAudience": "Same as in context"
+			},
+			"formality": {
+				"title": "Formality",
+				"informal": "Informal",
+				"neutral": "Neutral",
+				"formal": "Formal",
+				"sameAsInContextFormality": "Same as in context"
+			},
+			"intent": {
+				"title": "Intent",
+				"inform": "Inform",
+				"describe": "Describe",
+				"convince": "Convince",
+				"tellAStory": "Tell a story",
+				"sameAsInContextIntent": "Same as in context"
+			},
+			"emoji": {
+				"title": "Emoji",
+				"no": "No emoji",
+				"aFewIfNeeded": "A few if needed",
+				"similarlyAsInContextEmoji": "Similarly as in context",
+				"aLot": "A lot"
+			}
+		},
+		"multiSelectStep":{
+			"labels": {
+				"paragraph": "Paragraph",
+				"list": "List",
+				"button": "Button",
+				"text": "Text",
+				"heading1": "Heading 1",
+				"heading2": "Heading 2",
+				"heading3": "Heading 3"
+			},
+			"buttons": {
+				"selectAll": "Select all",
+				"selectNone": "Select none"
+			},
+			"texts": {
+				"selectElements": "Select the text elements you would like to include as context.",
+				"selectedElements": "Selected elements"
+			}
+		},
+		"resultStep": {
+			"suggestedText": "Insert the elements you would like to change.",
+			"insert": "Insert",
+			"acceptAll": "Accept all",
+			"current": "Current",
+			"suggested": "Suggested",
+			"labels": {
+				"paragraph": "Paragraph",
+				"list": "List",
+				"button": "Button",
+				"text": "Text",
+				"heading1": "Title",
+				"heading2": "Title",
+				"heading3": "Title",
+				"subject": "Subject",
+				"previewText": "Preview"
+			}
+		}
+	},
 	"editorMain": {
 		"contentHeader": {
 			"altText": "描述文字",
@@ -83,6 +320,7 @@
 					"emptyExpression": "空的表述"
 				}
 			},
+			"external": "external",
 			"elements": "元件",
 			"brand": "品牌",
 			"body": "內容",
@@ -161,7 +399,8 @@
 		"sharedComponents": {
 			"toolboxHeader": {
 				"lockMsg": "你不能修這元件設定，因為這區塊已被鎖",
-				"subscriptionLockMsg": "升級你的服務以使用這功能"
+				"subscriptionLockMsg": "升級你的服務以使用這功能",
+				"componentLocalChanges": "{0} has local changes in component"
 			}
 		},
 		"toolboxes": {
@@ -178,6 +417,10 @@
 				"title": "應用表述",
 				"else": "否則",
 				"emptyExpression": "空的表述"
+			},
+			"externalElement": {
+				"title": "External",
+				"elementNotFound": "Element not found in editor config"
 			},
 			"background": {
 				"labels": {
@@ -325,7 +568,8 @@
 					"restore": "Restore component",
 					"reset": "Reset component",
 					"noData": "No components available",
-					"noSearchData": "No results for '{0}'"
+					"noSearchData": "No results for '{0}'",
+					"localChanges": "{0} local changes on component"
 				},
 				"drawer": {
 					"title": "Add new component",
@@ -417,6 +661,15 @@
 				},
 				"rule": "Marker should not contain '<' or '>' characters, as they will be removed in the generated HTML!"
 			},
+			"masterBlock":{
+				"labels": {
+					"title": "Master block",
+					"name": "Master block",
+					"masterBlockTitle": "Title",
+					"detach": "Detach",
+					"edit": "Edit"
+				}
+			},
 			"multicol": {
 				"title": "多欄",
 				"addColumn": "新增欄",
@@ -494,14 +747,6 @@
 					"linkColor": "線顏色"
 				}
 			},
-			"listMarker": {
-				"labels": {
-					"types": "Marker Types",
-					"color": "Marker Color",
-					"fontSize": "Marker Font Size",
-					"fontFamily": "Marker Font Family"
-				}
-			},
 			"typography": {
 				"labels": {
 					"format": "格式",
@@ -513,6 +758,14 @@
 					"letterSpacing": "字距",
 					"customLetterSpacing": "自訂字距",
 					"lineSpacing": "Line Spacing"
+				}
+			},
+			"listMarker": {
+				"labels": {
+					"types": "Marker Types",
+					"color": "Marker Color",
+					"fontSize": "Marker Font Size",
+					"fontFamily": "Marker Font Family"
 				}
 			},
 			"typographyEditor": {
@@ -586,7 +839,25 @@
 			"update": "更新"
 		},
 		"connectionLost": "你的設備失去聯網連線",
-		"welcome": "歡迎再回來!"
+		"welcome": "歡迎再回來!",
+		"subjectPreviewEdit":{
+			"title": "Email details",
+			"subjectInput": {
+				"title": "Subject",
+				"placeholder": "Add a subject line to your email"
+			},
+			"previewInput": {
+				"title": "Preview text",
+				"placeholder": "Add a preview text to your email"
+			},
+			"save": "Save",
+			"cancel": "Cancel",
+			"edit": "Edit subject & preview text",
+			"rules": {
+				"required": "This field is required and can't be empty"
+			},
+			"aiAssistantTooltip": "AI Assistant"
+		}
 	},
 	"header": {
 		"undo": "Undo",
@@ -645,8 +916,11 @@
 			"canNotDelete": "你沒有權限刪除新這變數",
 			"noVariableOfType": "按  \"新增\" 按鈕建立你的第一個 {0} 變數",
 			"deleteWarning": "{0} 元件仍使用這變數。你確定刪除這變數?",
-			"findAndRemove": "在其他地方刪除這變數但保持這些值",
-			"findAndReplace": "找尋這變數的匹配值及取代"
+			"canFindAndRemove": "在其他地方刪除這變數但保持這些值",
+			"canNotFindAndRemove": "You don't have permission to find and remove matching values with this variable",
+			"canFindAndReplace": "找尋這變數的匹配值及取代",
+			"canNotFindAndReplace": "You don't have permission to find and replace matching values with this variable",
+			"canNotAdd": "You don't have permission to add a new variable"
 		},
 		"variablePreview": {
 			"selectToPreview": "請選擇變數查看更詳細預覧"
@@ -797,6 +1071,18 @@
 	},
 	"ckEditor": {
 		"addVariable": "Add variable",
-		"addMergeTag": "Add a merge tag"
+		"addMergeTag": "Add a merge tag",
+		"aiAssistant": "AI Assistant",
+		"toolbox": {
+			"bold": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the bold property"
+			},
+			"italic": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the italic property"
+			},
+			"underline": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the underline property"
+			}
+		}
 	}
 }
