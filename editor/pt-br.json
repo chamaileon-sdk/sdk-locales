@@ -8,6 +8,243 @@
 			"decline": "Cancelar"
 		}
 	},
+	"aiAssistant": {
+		"generate": "Generate",
+		"back": "Back",
+		"next": "Next",
+		"title": "AI Assistant",
+		"ideas": "Ideas for you...",
+		"findTheRight": "Find the right text based on your goals and target audience.",
+		"language": "Language",
+		"editable": "Editable",
+		"customContext": "Add your custom instructions here",
+		"prompt": "Prompt",
+		"suggested": "Suggested context",
+		"insert": "Insert",
+		"aiAssistantTooltip": "AI Assistant",
+		"callAiAssistantError": "AI Assistant could not generate a response at this time. Please try again.",
+		"noTargetError": "Ai assistant has no element to work on. Please add or select an element.",
+		"gptConfigs":{
+			"languages": {
+				"sameAsInContext": "Same as in context",
+				"enUS": "American English",
+				"enGB": "British English",
+				"ab": "Abkhazian",
+				"aa": "Afar",
+				"af": "Afrikaans",
+				"sq": "Albanian",
+				"am": "Amharic",
+				"ar": "Arabic",
+				"hy": "Armenian",
+				"as": "Assamese",
+				"ay": "Aymara",
+				"az": "Azerbaijani",
+				"ba": "Bashkir",
+				"eu": "Basque",
+				"bn": "Bengali, Bangla",
+				"dz": "Bhutani",
+				"bh": "Bihari",
+				"bi": "Bislama",
+				"br": "Breton",
+				"bg": "Bulgarian",
+				"my": "Burmese",
+				"be": "Byelorussian",
+				"km": "Cambodian",
+				"ca": "Catalan",
+				"zh": "Chinese",
+				"zhCN": "Chinese (Simplified)",
+				"zhTW": "Chinese (Traditional)",
+				"co": "Corsican",
+				"hr": "Croatian",
+				"cs": "Czech",
+				"da": "Danish",
+				"nl": "Dutch",
+				"eo": "Esperanto",
+				"et": "Estonian",
+				"fo": "Faeroese",
+				"fj": "Fiji",
+				"fi": "Finnish",
+				"fr": "French",
+				"fy": "Frisian",
+				"gd": "Gaelic (Scots Gaelic)",
+				"gl": "Galician",
+				"ka": "Georgian",
+				"de": "German",
+				"el": "Greek",
+				"kl": "Greenlandic",
+				"gn": "Guarani",
+				"gu": "Gujarati",
+				"ha": "Hausa",
+				"he": "Hebrew",
+				"hi": "Hindi",
+				"hu": "Hungarian",
+				"is": "Icelandic",
+				"id": "Indonesian",
+				"ia": "Interlingua",
+				"ie": "Interlingue",
+				"ik": "Inupiak",
+				"ga": "Irish",
+				"it": "Italian",
+				"ja": "Japanese",
+				"jv": "Javanese",
+				"kn": "Kannada",
+				"ks": "Kashmiri",
+				"kk": "Kazakh",
+				"rw": "Kinyarwanda",
+				"ky": "Kirghiz",
+				"rn": "Kirundi",
+				"ko": "Korean",
+				"ku": "Kurdish",
+				"lo": "Laothian",
+				"la": "Latin",
+				"lv": "Latvian, Lettish",
+				"ln": "Lingala",
+				"lt": "Lithuanian",
+				"mk": "Macedonian",
+				"mg": "Malagasy",
+				"ms": "Malay",
+				"ml": "Malayalam",
+				"mt": "Maltese",
+				"mi": "Maori",
+				"mr": "Marathi",
+				"mo": "Moldavian",
+				"mn": "Mongolian",
+				"na": "Nauru",
+				"ne": "Nepali",
+				"no": "Norwegian",
+				"oc": "Occitan",
+				"or": "Oriya",
+				"om": "Oromo, Afan",
+				"ps": "Pashto, Pushto",
+				"fa": "Persian",
+				"pl": "Polish",
+				"pt": "Portuguese",
+				"pa": "Punjabi",
+				"qu": "Quechua",
+				"rm": "Rhaeto-Romance",
+				"ro": "Romanian",
+				"ru": "Russian",
+				"sm": "Samoan",
+				"sg": "Sangro",
+				"sa": "Sanskrit",
+				"sr": "Serbian",
+				"sh": "Serbo-Croatian",
+				"st": "Sesotho",
+				"tn": "Setswana",
+				"sn": "Shona",
+				"sd": "Sindhi",
+				"si": "Singhalese",
+				"ss": "Siswati",
+				"sk": "Slovak",
+				"sl": "Slovenian",
+				"so": "Somali",
+				"es": "Spanish",
+				"su": "Sudanese",
+				"sw": "Swahili",
+				"sv": "Swedish",
+				"tl": "Tagalog",
+				"tg": "Tajik",
+				"ta": "Tamil",
+				"tt": "Tatar",
+				"te": "Tegulu",
+				"th": "Thai",
+				"bo": "Tibetan",
+				"ti": "Tigrinya",
+				"to": "Tonga",
+				"ts": "Tsonga",
+				"tr": "Turkish",
+				"tk": "Turkmen",
+				"tw": "Twi",
+				"uk": "Ukrainian",
+				"ur": "Urdu",
+				"uz": "Uzbek",
+				"vi": "Vietnamese",
+				"vo": "Volapuk",
+				"cy": "Welsh",
+				"wo": "Wolof",
+				"xh": "Xhosa",
+				"yi": "Yiddish",
+				"yo": "Yoruba",
+				"zu": "Zulu"
+			}
+		},
+		"actionStep": {
+			"suggestButtonText": "Suggest button text",
+			"generateBasedOnNotes": "Generate text based on notes",
+			"fixGrammar": "Fix grammar",
+			"translateLanguage": "Translate to other language",
+			"generateSimilar": "Generate similar",
+			"suggestSubjectPreview": "Suggest subject line and preview text"
+		},
+		"toneStep": {
+			"audience": {
+				"title": "Audience",
+				"general": "General",
+				"knowledgeable": "Knowledgeable",
+				"expert": "Expert",
+				"sameAsInContextAudience": "Same as in context"
+			},
+			"formality": {
+				"title": "Formality",
+				"informal": "Informal",
+				"neutral": "Neutral",
+				"formal": "Formal",
+				"sameAsInContextFormality": "Same as in context"
+			},
+			"intent": {
+				"title": "Intent",
+				"inform": "Inform",
+				"describe": "Describe",
+				"convince": "Convince",
+				"tellAStory": "Tell a story",
+				"sameAsInContextIntent": "Same as in context"
+			},
+			"emoji": {
+				"title": "Emoji",
+				"no": "No emoji",
+				"aFewIfNeeded": "A few if needed",
+				"similarlyAsInContextEmoji": "Similarly as in context",
+				"aLot": "A lot"
+			}
+		},
+		"multiSelectStep":{
+			"labels": {
+				"paragraph": "Paragraph",
+				"list": "List",
+				"button": "Button",
+				"text": "Text",
+				"heading1": "Heading 1",
+				"heading2": "Heading 2",
+				"heading3": "Heading 3"
+			},
+			"buttons": {
+				"selectAll": "Select all",
+				"selectNone": "Select none"
+			},
+			"texts": {
+				"selectElements": "Select the text elements you would like to include as context.",
+				"selectedElements": "Selected elements"
+			}
+		},
+		"resultStep": {
+			"suggestedText": "Insert the elements you would like to change.",
+			"insert": "Insert",
+			"acceptAll": "Accept all",
+			"current": "Current",
+			"suggested": "Suggested",
+			"labels": {
+				"paragraph": "Paragraph",
+				"list": "List",
+				"button": "Button",
+				"text": "Text",
+				"heading1": "Title",
+				"heading2": "Title",
+				"heading3": "Title",
+				"subject": "Subject",
+				"previewText": "Preview"
+			}
+		}
+	},
 	"editorMain": {
 		"contentHeader": {
 			"altText": "Texto alternativo",
@@ -83,6 +320,7 @@
 					"emptyExpression": "Expressão vazia"
 				}
 			},
+			"external": "external",
 			"elements": "Elementos",
 			"brand": "Marca",
 			"body": "Corpo",
@@ -161,7 +399,8 @@
 		"sharedComponents": {
 			"toolboxHeader": {
 				"lockMsg": "Você não pode editar as configurações deste elemento porque o bloco selecionado está bloqueado.",
-				"subscriptionLockMsg": "Para usar este recurso, por favor, atualize seu plano de assinatura."
+				"subscriptionLockMsg": "Para usar este recurso, por favor, atualize seu plano de assinatura.",
+				"componentLocalChanges": "{0} has local changes in component"
 			}
 		},
 		"toolboxes": {
@@ -178,6 +417,10 @@
 				"title": "Expressões aplicadas",
 				"else": "Caso contrário",
 				"emptyExpression": "Expressão vazia"
+			},
+			"externalElement": {
+				"title": "External",
+				"elementNotFound": "Element not found in editor config"
 			},
 			"background": {
 				"labels": {
@@ -325,7 +568,8 @@
 					"restore": "Restaurar componente",
 					"reset": "Redefinir componente",
 					"noData": "Nenhum componente disponível",
-					"noSearchData": "Nenhum resultado para '{0}'"
+					"noSearchData": "Nenhum resultado para '{0}'",
+					"localChanges": "{0} local changes on component"
 				},
 				"drawer": {
 					"title": "Adicionar novo componente",
@@ -416,6 +660,15 @@
 					"inputHint": "Digite seu marcador aqui"
 				},
 				"rule": "O marcador não deve conter caracteres '<' ou '>', pois eles serão removidos do HTML gerado!"
+			},
+			"masterBlock":{
+				"labels": {
+					"title": "Master block",
+					"name": "Master block",
+					"masterBlockTitle": "Title",
+					"detach": "Detach",
+					"edit": "Edit"
+				}
 			},
 			"multicol": {
 				"title": "Multicoluna",
@@ -586,7 +839,25 @@
 			"update": "Atualizar"
 		},
 		"connectionLost": "Seu dispositivo perdeu a conexão com a internet.",
-		"welcome": "Bem-vindo de volta!"
+		"welcome": "Bem-vindo de volta!",
+		"subjectPreviewEdit":{
+			"title": "Email details",
+			"subjectInput": {
+				"title": "Subject",
+				"placeholder": "Add a subject line to your email"
+			},
+			"previewInput": {
+				"title": "Preview text",
+				"placeholder": "Add a preview text to your email"
+			},
+			"save": "Save",
+			"cancel": "Cancel",
+			"edit": "Edit subject & preview text",
+			"rules": {
+				"required": "This field is required and can't be empty"
+			},
+			"aiAssistantTooltip": "AI Assistant"
+		}
 	},
 	"header": {
 		"undo": "Desfazer",
@@ -645,8 +916,11 @@
 			"canNotDelete": "Você não tem permissão para excluir esta variável",
 			"noVariableOfType": "Para criar sua primeira variável {0}, clique no botão \"Adicionar nova\".",
 			"deleteWarning": "{0} elemento(s) ainda usa(m) esta variável. Tem certeza de que deseja excluí-la?",
-			"findAndRemove": "Remover a variável de todos os lugares, mas manter os valores",
-			"findAndReplace": "Encontrar valores correspondentes e substituí-los pela variável"
+			"canFindAndRemove": "Remover a variável de todos os lugares, mas manter os valores",
+			"canNotFindAndRemove": "You don't have permission to find and remove matching values with this variable",
+			"canFindAndReplace": "Encontrar valores correspondentes e substituí-los pela variável",
+			"canNotFindAndReplace": "You don't have permission to find and replace matching values with this variable",
+			"canNotAdd": "You don't have permission to add a new variable"
 		},
 		"variablePreview": {
 			"selectToPreview": "Selecione uma variável para ver uma prévia mais detalhada dela."
@@ -797,6 +1071,18 @@
 	},
 	"ckEditor": {
 		"addVariable": "Adicionar variável",
-		"addMergeTag": "Adicionar uma tag de mesclagem"
+		"addMergeTag": "Adicionar uma tag de mesclagem",
+		"aiAssistant": "AI Assistant",
+		"toolbox": {
+			"bold": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the bold property"
+			},
+			"italic": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the italic property"
+			},
+			"underline": {
+				"disabledReason": "This button is disabled, please use the toolbox on the right side to switch the underline property"
+			}
+		}
 	}
 }
